@@ -1,2 +1,2 @@
-# indicator
-MACD with alerts
+# MACD with alerts
+
